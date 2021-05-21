@@ -1,0 +1,79 @@
+body{
+    background-image: url('dog-feet-street_1122-391.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    
+    position: absolute;
+    top: 30%;
+    left: 26%;
+    right: 27%;
+    bottom: 50%;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bolder;
+    font-family:Verdana, Tahoma, sans-serif;
+    text-shadow: 2px 2px 5px rgba(95, 27, 6, 0.863);
+}
+h2{
+    position:absolute;
+    top: 44%;
+    left: 24%;
+    right: 25%;
+    bottom: 40%;
+    color:whitesmoke;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bolder;
+    font-family: Verdana, Tahoma, sans-serif;
+    text-shadow: 2px 2px 5px rgba(95, 27, 6, 0.863);
+}
+p{
+    position: absolute;
+    top: 60%;
+    left: 18%;
+    right: 18%;
+    color: whitesmoke;
+    text-align:center;
+    font-weight: bolder;
+    font-size: 18px;
+    letter-spacing: 2px;
+    word-spacing: 4.5px;
+    text-shadow: 2px 2px 5px rgba(95, 27, 6, 0.863);
+}
+.DonBtn button {    
+    position: absolute;
+    top: 115%;
+    left:44%;
+    right: 80%;
+    color: burlywood;
+    height: 50px;
+    width: 170px;
+    font-size: larger;
+    font-weight: bolder;
+    color: cornsilk;
+    background-color: darksalmon;
+    border-color: white;
+    border-width: 4px;
+}
+
+.boxed
+{
+    box-sizing: border-box;
+    position: relative;
+    top: 200%;
+    left: 15%;
+    height: 40%;
+    width: 70%;
+    text-align: center;
+    color: whitesmoke ;
+    border: 10px solid rgb(238, 114, 73);
+    text-shadow: 2px 2px 2px rgba(65, 39, 61, 0.863);
+    background-color: darksalmon;
+    padding: 20px;
+    margin-top: 12%;
+    font-size: 18px;
+}
